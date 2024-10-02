@@ -1,0 +1,4 @@
+/Users/vasista_dhyasani/Desktop/CS480-Assignments/Chess/cmake-build-debug/CMakeFiles/Chess.dir
+/Users/vasista_dhyasani/Desktop/CS480-Assignments/Chess/cmake-build-debug/CMakeFiles/Test.dir
+/Users/vasista_dhyasani/Desktop/CS480-Assignments/Chess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vasista_dhyasani/Desktop/CS480-Assignments/Chess/cmake-build-debug/CMakeFiles/rebuild_cache.dir

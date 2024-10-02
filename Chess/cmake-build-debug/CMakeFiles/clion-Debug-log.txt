@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/vasista_dhyasani/Desktop/CS480-Assignments/Chess -B /Users/vasista_dhyasani/Desktop/CS480-Assignments/Chess/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/vasista_dhyasani/Desktop/CS480-Assignments/Chess/cmake-build-debug
